@@ -42,12 +42,6 @@ The dashboard includes 5 visuals:
 1. Boost promotions and stock before seasonal peaks.
 2. Maintain key customers and expand mid/low-tier customers.
 3. Investigate high-return products/countries, improve quality/logistics.
-
-## 8. Project Files
-```
-/BI_Project
-│-- OnlineRetail.csv       # Raw dataset
-│-- PowerBI.pbix           # Power BI report
-│-- README.md              # Project documentation (this file)
+ntation (this file)
 │-- PPT_Slides.pptx        # Presentation slides
 ```
